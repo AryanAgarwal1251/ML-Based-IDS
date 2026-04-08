@@ -1,0 +1,10 @@
+__pycache__
+
+check_kaggle.py
+dataset.py
+evaluation.py
+main.py
+model_tensorflow.py
+model.py
+preprocessing_chunked.py
+preprocessing.py

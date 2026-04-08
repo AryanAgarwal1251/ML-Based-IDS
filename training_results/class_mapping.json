@@ -1,0 +1,24 @@
+{
+  "mode": "multiclass",
+  "framework": "tensorflow",
+  "classes": [
+    "Audio",
+    "Background",
+    "Bruteforce",
+    "DoS",
+    "Information_Gathering",
+    "Mirai",
+    "Text",
+    "Video"
+  ],
+  "id_to_name": {
+    "0": "Audio",
+    "1": "Background",
+    "2": "Bruteforce",
+    "3": "DoS",
+    "4": "Information_Gathering",
+    "5": "Mirai",
+    "6": "Text",
+    "7": "Video"
+  }
+}
