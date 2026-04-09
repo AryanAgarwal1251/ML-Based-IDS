@@ -1,10 +1,19 @@
+#cache files
 __pycache__
 
-check_kaggle.py
-dataset.py
-evaluation.py
-main.py
-model_tensorflow.py
-model.py
-preprocessing_chunked.py
-preprocessing.py
+#ignore venv
+ids_venv
+
+#ignore v1
+/model_v1
+
+#csv files original
+/csv
+
+#filtered and balanced out csv
+/filtered_csv_tiisrrc23
+
+#ignore v1 results
+/training_results_v1
+
+test.py
